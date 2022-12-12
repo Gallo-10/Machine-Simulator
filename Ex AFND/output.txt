@@ -1,0 +1,4 @@
+a Negado
+b Aceito
+a b Aceito
+b a Negado

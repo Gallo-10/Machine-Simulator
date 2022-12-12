@@ -1,0 +1,4 @@
+ A;A B x
+ A;A A B B x
+ A;A A A B B B x
+ R;A B b b
